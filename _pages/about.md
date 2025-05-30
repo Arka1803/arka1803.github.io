@@ -28,9 +28,14 @@ latest_posts:
 ---
 
 
-I am Arkaprava Sain, a PhD student at Indian Institute of Technology, Kharagpur
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Arkaprava Sain, a PhD student at Indian Institute of Technology, Kharagpur, India. I am currently working under the supervision of Prof. Soumyajit Dey. I'm part of the HIPRC (High Performance Real-Time Computing) research group.
+
+My research focuses on real-time systems and scheduling security. I work on designing secure and resilient scheduling frameworks to protect safety-critical cyber-physical systems from side-channel attacks and false-data injection attacks. My work combines real-time scheduling theory, formal methods, control system design to ensure predictable and trustworthy system behavior.
+
+I'm particularly interested in applying these techniques to domains like autonomous systems, industrial control, and critical infrastructure, where timing correctness and security are equally vital. Thank You! 
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
