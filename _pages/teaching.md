@@ -12,26 +12,19 @@ nav_order: 6
 Organize your courses by years, topics, or universities, however you like! -->
 ## University Courses (TA Roles)
 
-- **Operating Systems (CSCI 4061)**  
-  University of Minnesota – Spring 2023
+- **Programming and Data Structures Lab(CSCI 4061)**  
+  Spring 2023
 
-- **Computer Architecture (CSCI 4203)**  
-  University of Minnesota – Fall 2022
+- **Programming and Data Structures (CSCI 4203)**  
+  Autumn 2022
 
-- **Real-Time Systems (CSCI 5980)**  
-  University of Minnesota – Spring 2024
-
-- **Embedded Systems (CSCI 2021)**  
-  University of Minnesota – Fall 2021
-
----
+- **Formal Language and Automata(CSCI 5980)**  
+  Spring 2022, 2023,2024
 
 ## NPTEL Courses (TA Roles)
 
-- **Real-Time Operating Systems**  
-  NPTEL – TA Role, 2021
+- **Foundations of Cyber Physical System**  
+  NPTEL TA - January-April 2024
 
-- **Introduction to Embedded Systems**  
-  NPTEL – TA Role, 2020
-
----
+- **Foundations of Cyber Physical System**  
+  NPTEL TA - January-April 2025
